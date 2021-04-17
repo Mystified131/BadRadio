@@ -73,7 +73,7 @@ for y in range(50):
 
 #This code takes the chosen track list and generates companion lists for exporting
 
-ctr = 25
+ctr = 32
 
 playlst = []
 
